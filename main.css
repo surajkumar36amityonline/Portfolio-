@@ -63,7 +63,7 @@
     scroll-behavior: smooth;
   }
   
-  body,
+  body{padding: 20px;}
   h1,
   h2,
   h3,
@@ -99,6 +99,7 @@
     color: var(--color-text);
     margin-top: var(--height-header);
     line-height: 1.2;
+    padding: 20px;
   }
   
   /* Reusable CSS
